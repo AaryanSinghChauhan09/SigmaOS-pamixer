@@ -3,7 +3,7 @@ name = "SigmaOS-pamixer"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "pamixer component"
+description = "SigmaOS SigmaOS-pamixer component"
 upstream = []
 
 [contract]
